@@ -24,3 +24,12 @@ else
 fi
 
 echo "Theme modified successfully!"
+
+# Install all the necessary fonts
+oh-my-posh font install "CascadiaCode"
+oh-my-posh font install "CascadiaCode (MS)"
+oh-my-posh font install "FiraCode"
+oh-my-posh font install "JetBrainsMono"
+oh-my-posh font install "Meslo"
+oh-my-posh font install "NerdFontsSymbolsOnly"
+oh-my-posh font install "SourceCodePro"
